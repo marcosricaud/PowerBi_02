@@ -2,7 +2,7 @@
 
 Tablero de Control
 
-Se  elabora un informe que nos permite anañizar las ventas por tipo de operaciónes del sector inmobiliario en la region de Cataluña,España . La misma consiste en transformar datos y verificar que sean correctos desde Power Query,ademas ordenar y darle estetica a las tablas,realizar varias "medidas" con lenguaje DAX.
+Se  elabora un informe que nos permite analizar las ventas por tipo de operaciónes del sector inmobiliario en la region de Cataluña,España . La misma consiste en transformar datos y verificar que sean correctos desde Power Query,ademas ordenar y darle estetica a las tablas,realizar varias "medidas" con lenguaje DAX.
 
 Visualizaciones
 Para el año 2006 ( en una misma hoja)
